@@ -1,0 +1,9 @@
+Factors Influencing Loan Approval
+
+The following factors are considered when determining loan approval, which is the dependent variable in this project:
+
+- Applicant Income: Applicants with higher income levels generally have a greater likelihood of loan approval.
+- Credit History: A strong repayment history on previous loans positively impacts the chances of approval.
+- Requested Loan Amount: Smaller loan amounts are typically associated with higher approval rates.
+- Loan Term: Loans with shorter repayment periods and lower principal amounts are more likely to be approved.
+- Equated Monthly Instalment (EMI): Lower monthly repayment obligations increase the probability of loan approval.
